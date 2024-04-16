@@ -1,0 +1,1 @@
+Crafted a Spotify-inspired clone using HTML and CSS, demonstrating prowess in front-end web development. Designed a sleek and user-friendly interface, showcasing attention to detail and creativity in replicating a popular platform.
